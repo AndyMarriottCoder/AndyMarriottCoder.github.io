@@ -16,3 +16,37 @@ TO INCLUDE:
 
 
 Use of HTML & markdown
+
+
+
+DevOps Roadmap (roadmap.sh/devops?r=devops)
+
+- Learn a Programming Language
+    - Python
+    
+- Operating Systems
+    - Windows
+
+- Live in Terminal
+    - PowerShell
+
+- Version Control Systems
+    - Git
+
+- VCS Hosting
+    - GitHub
+
+- Containers
+    - Docker
+
+- Cloud Providers
+    - AWS
+
+- Serverless Technologies
+    - Lambda for example. 
+
+- Infrastucture Provisioning
+    - CloudFormation
+    - Terraform
+
+- 
