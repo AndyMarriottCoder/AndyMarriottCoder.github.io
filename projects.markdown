@@ -12,3 +12,7 @@ TO INCLUDE:
 4. Testing script on Jenkins controller
 5. Building an App using Swift
 6. GitHub & Jekyll - Building this portfolio
+
+
+
+Use of HTML & markdown
